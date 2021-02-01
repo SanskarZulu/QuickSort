@@ -1,4 +1,7 @@
 # QuickSort
+Quicksort is an efficient sorting algorithm. Developed by British computer scientist Tony Hoare in 1959 and published in 1961, it is still a commonly used algorithm for sorting. When implemented well, it can be about two or three times faster than its main competitors, merge sort and heapsort.
+1. Partition Method.
+2. Medians of Median Algorithm.
 Output:
 
                                                                                                                                                 
